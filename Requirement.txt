@@ -1,0 +1,11 @@
+
+---
+
+## 📜 requirements.txt  
+
+```txt
+pandas
+faker
+google-cloud-bigquery
+pyarrow
+fastparquet
